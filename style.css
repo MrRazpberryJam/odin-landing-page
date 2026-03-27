@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com');
+
+* {
+
+}
+ 
+
+/* Element Formatting */
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.hero,
+.footer {
+    background-color:#1F2937;
+}
+
+.hero h1 {
+    font-size:24px;
+    color: #F9FAF8;
+}
+
+.hero h2 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero h3,
+.hero a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.information {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.quote {
+    background-color:#E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.call-to-action,
+.button {
+    background-color:#3882F6;
+}
+
+
+/* Flex Formatting */
+
